@@ -28,7 +28,7 @@ Store N values in a particular sequence defined by the user.
 
 Number of items in set does not change.
 
-`n` items: $x_0, x_1, x_2, ... , x_(n-1)
+`n` items: $x_0, x_1, x_2, ... , x_(n-1)$
 
 ## Data Structure Approaches
 
